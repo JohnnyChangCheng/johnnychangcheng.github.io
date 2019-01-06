@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Connect me by linked in if you would
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+這篇部落格主要分享一些菜鳥工程師遇到的問題以及解決方法
+主要是用中文寫成,希望能造福一些跟我一樣在泥沼掙扎的工程師們:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
