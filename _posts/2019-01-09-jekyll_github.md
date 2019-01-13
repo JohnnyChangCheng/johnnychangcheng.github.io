@@ -53,4 +53,4 @@ As mentioned previously, you can use [prose.io](https://prose.io/) to add or edi
 
 In order to have your new pages use this template and not just be plain pages, you need to add [YAML front matter](https://jekyllrb.com/docs/front-matter/) to the top of each page. This is where you'll give each page some parameters that I made available, such as a title and subtitle. I'll go into more detail about what parameters are available later. If you don't want to use any parameters on your new page (this also means having no title), then use the empty YAML front matter:
 
-####總結用第三方的GithubTheme就簡化了許多繁雜的步驟
+#### 總結用第三方的GithubTheme就簡化了許多繁雜的步驟
