@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll 架站 at Github
-tags: [web]
+tags: [web,Backend]
 ---
 本業不是Web工程師,要用GitHub的空間架出一個簡單的Blog也是煞費苦心,於是留下這篇文章紀錄一下坑坑洞洞 <br/>
 作業環境 : Ubuntu 18.04 <br/>
@@ -18,7 +18,7 @@ Jekyll : 在Ubuntu上可以直接用sudo apt-get install jekyll <br/>
  - 接著把這個Repository砍掉,因為我們要進入正題了,用第三方作者提供的jekyll來架blog <br/>
       除非是前端工程師,不然還是乖乖用第三方的素材來架站比較方便
  - 如下方的Github [Jkelly Theme](https://github.com/daattali/beautiful-jekyll/)  <br/>
- 
+
 ### 1. Fork this repository
 
 (Assuming you are on this page and logged into GitHub) Fork this repository by clicking the *Fork* button on the top right corner. Forking means that you now copied this whole project and all the files into your account.
@@ -52,3 +52,5 @@ As mentioned previously, you can use [prose.io](https://prose.io/) to add or edi
 ## Last important thing: YAML front matter ("parameters" for a page)
 
 In order to have your new pages use this template and not just be plain pages, you need to add [YAML front matter](https://jekyllrb.com/docs/front-matter/) to the top of each page. This is where you'll give each page some parameters that I made available, such as a title and subtitle. I'll go into more detail about what parameters are available later. If you don't want to use any parameters on your new page (this also means having no title), then use the empty YAML front matter:
+
+####總結用第三方的GithubTheme就簡化了許多繁雜的步驟
